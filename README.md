@@ -1,6 +1,6 @@
-## From Zero
+## libzer0
 
-###### Standard Data Structures and Algorithms implemented in C 
+##### Data Structures and Algorithm in C++
 
 > Reinventing the wheel is redundant, yet it is the best way fully comprehend how it was made. 
 >
