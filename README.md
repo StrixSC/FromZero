@@ -1,11 +1,5 @@
-## libzer0
+# zer0
 
-##### Data Structures and Algorithm in C++
+** Datastructures and Algorithms **, made simple and easy, in C++.
 
-> Reinventing the wheel is redundant, yet it is the best way fully comprehend how it was made. 
->
-> \- Anonymous 
-
-<hr />
-
-<small> *Still a WIP for now. Check back later!* </small>
+Still a WIP for now, check back later!
