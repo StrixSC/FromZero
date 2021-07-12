@@ -4,7 +4,6 @@
 #include <vector>
 #include <string>
 
-
 void test_static_array(int test_case_count) {
     bool passed = true;
     std::string message;
