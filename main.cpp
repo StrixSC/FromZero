@@ -29,7 +29,7 @@ void test_static_array(int test_case_count) {
     }
 
     if (passed) {
-        std::cout << "StaticArray test cases --- PASSED" << std::endl;
+        std::cout << "StaticArray Test Cases --- PASSED" << std::endl;
     }
     else {
         std::cout << message << std::endl;
@@ -37,7 +37,7 @@ void test_static_array(int test_case_count) {
 }
 
 int main() {
-     test_static_array(5);
+    test_static_array(5);
 
     return 0;
 }
