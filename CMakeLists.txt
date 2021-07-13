@@ -5,9 +5,9 @@ set(CMAKE_VERBOSE_MAKEFILE OFF)
 
 set (
     SOURCE_FILES
-        "main.cpp"
-        "LibDS/StaticArray.h"
-        "LibDS/StaticArray.cpp"
+        main.cpp
+        LibDS/StaticArray.h
+        LibDS/StaticArray.cpp
 )
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
